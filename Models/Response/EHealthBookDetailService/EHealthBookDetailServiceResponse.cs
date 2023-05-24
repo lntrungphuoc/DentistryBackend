@@ -1,0 +1,18 @@
+﻿using AppDentistry.Models.Response.EHealthBookDetail;
+using AppDentistry.Models.Response.Service;
+
+namespace AppDentistry.Models.Response.EHealthBookDetailService
+{
+    public class EHealthBookDetailServiceResponse
+    {
+        public int Id { get; set; }
+        public int IdEHealthBookDetail { get; set; }
+        public int IdService { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime? ModifiedDate { get; set; }
+        public int CreatedBy { get; set; }
+        public int? ModifiedBy { get; set; }
+        public virtual EHealthBookDetailResponse EHealthBookDetail { get; set; }
+        public virtual ServiceResponse Service { get; set; }
+    }
+}
