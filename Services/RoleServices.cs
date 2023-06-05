@@ -19,6 +19,7 @@ namespace AppDentistry.Services
             return _roleManager.Roles
                 .Select(e => new RoleResponse()
                 {
+                    Id = e.Id,
                     Name = e.Name,
                     DisplayName = e.DisplayName
                 })

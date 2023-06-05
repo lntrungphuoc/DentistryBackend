@@ -69,6 +69,10 @@
       "PackagePath": "staticwebassets\\attachment\\0ad36693-35af-4c83-849f-6affc7d6f609.jpg"
     },
     {
+      "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\0c1a3f7e-1e3d-46b7-8072-198a74b0995a.pdf",
+      "PackagePath": "staticwebassets\\attachment\\0c1a3f7e-1e3d-46b7-8072-198a74b0995a.pdf"
+    },
+    {
       "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\0c767a2e-85f8-4462-917f-35d65229e97b.jpg",
       "PackagePath": "staticwebassets\\attachment\\0c767a2e-85f8-4462-917f-35d65229e97b.jpg"
     },
@@ -171,6 +175,10 @@
     {
       "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\1e945fad-661f-4980-9001-a66f61556c77.jpg",
       "PackagePath": "staticwebassets\\attachment\\1e945fad-661f-4980-9001-a66f61556c77.jpg"
+    },
+    {
+      "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\1f60b305-f70e-4aab-9428-ce2d43036583.pdf",
+      "PackagePath": "staticwebassets\\attachment\\1f60b305-f70e-4aab-9428-ce2d43036583.pdf"
     },
     {
       "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\209881dd-a5fe-44f9-83a5-bd6f5df9ef54.jpg",
@@ -413,6 +421,10 @@
       "PackagePath": "staticwebassets\\attachment\\44168208-f040-4b8c-974a-df5eb27282ff.pdf"
     },
     {
+      "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\44b91d3e-d350-42f9-8bd2-22b039578f03.png",
+      "PackagePath": "staticwebassets\\attachment\\44b91d3e-d350-42f9-8bd2-22b039578f03.png"
+    },
+    {
       "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\44ee8ad5-7769-4b0b-901c-59f6e77070d2.jpg",
       "PackagePath": "staticwebassets\\attachment\\44ee8ad5-7769-4b0b-901c-59f6e77070d2.jpg"
     },
@@ -557,6 +569,10 @@
       "PackagePath": "staticwebassets\\attachment\\5ddc1dfb-dfc4-4379-aaae-369fc087ee25.png"
     },
     {
+      "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\5eee3c16-9aa6-43ef-a303-51093e24151e.pdf",
+      "PackagePath": "staticwebassets\\attachment\\5eee3c16-9aa6-43ef-a303-51093e24151e.pdf"
+    },
+    {
       "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\5f3d8d0f-ecd7-4e25-88c0-319153ddcf35.png",
       "PackagePath": "staticwebassets\\attachment\\5f3d8d0f-ecd7-4e25-88c0-319153ddcf35.png"
     },
@@ -609,6 +625,10 @@
       "PackagePath": "staticwebassets\\attachment\\6d2625d7-86ab-48a7-a281-6d00b16bde36.png"
     },
     {
+      "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\6d3af7f7-2c8f-4445-80ca-be34ab5921f7.jpg",
+      "PackagePath": "staticwebassets\\attachment\\6d3af7f7-2c8f-4445-80ca-be34ab5921f7.jpg"
+    },
+    {
       "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\6d5299b8-3d95-4c66-806b-01e84c195a79.png",
       "PackagePath": "staticwebassets\\attachment\\6d5299b8-3d95-4c66-806b-01e84c195a79.png"
     },
@@ -635,6 +655,10 @@
     {
       "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\73ff3086-c542-4367-86c8-9bd6c92630fd.jpg",
       "PackagePath": "staticwebassets\\attachment\\73ff3086-c542-4367-86c8-9bd6c92630fd.jpg"
+    },
+    {
+      "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\742c090c-dbbd-4b77-a851-0a3086911db1.jpg",
+      "PackagePath": "staticwebassets\\attachment\\742c090c-dbbd-4b77-a851-0a3086911db1.jpg"
     },
     {
       "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\74dda318-e2d2-44fb-a134-3995b365ef8f.jpg",
@@ -1193,6 +1217,10 @@
       "PackagePath": "staticwebassets\\attachment\\d497b7d0-ce75-499e-9dac-86257ee1bbd6.jpg"
     },
     {
+      "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\d4b66480-7bb4-417e-a656-1b39faded086.pdf",
+      "PackagePath": "staticwebassets\\attachment\\d4b66480-7bb4-417e-a656-1b39faded086.pdf"
+    },
+    {
       "Id": "D:\\DentistryBackend\\wwwroot\\attachment\\d651c884-3818-4237-b5c8-0e2f8cc2cd2d.png",
       "PackagePath": "staticwebassets\\attachment\\d651c884-3818-4237-b5c8-0e2f8cc2cd2d.png"
     },
@@ -1515,6 +1543,26 @@
     {
       "Id": "D:\\DentistryBackend\\wwwroot\\news_thumbnail\\blog1.jpg",
       "PackagePath": "staticwebassets\\news_thumbnail\\blog1.jpg"
+    },
+    {
+      "Id": "D:\\DentistryBackend\\wwwroot\\news_thumbnail\\chuc-mung-nam-moi.jpg",
+      "PackagePath": "staticwebassets\\news_thumbnail\\chuc-mung-nam-moi.jpg"
+    },
+    {
+      "Id": "D:\\DentistryBackend\\wwwroot\\news_thumbnail\\dan-rang-su.jpg",
+      "PackagePath": "staticwebassets\\news_thumbnail\\dan-rang-su.jpg"
+    },
+    {
+      "Id": "D:\\DentistryBackend\\wwwroot\\news_thumbnail\\rang-e-buot.jpg",
+      "PackagePath": "staticwebassets\\news_thumbnail\\rang-e-buot.jpg"
+    },
+    {
+      "Id": "D:\\DentistryBackend\\wwwroot\\news_thumbnail\\tet.jpg",
+      "PackagePath": "staticwebassets\\news_thumbnail\\tet.jpg"
+    },
+    {
+      "Id": "D:\\DentistryBackend\\wwwroot\\news_thumbnail\\thanks-giving.jpg",
+      "PackagePath": "staticwebassets\\news_thumbnail\\thanks-giving.jpg"
     },
     {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AppDentistry.Microsoft.AspNetCore.StaticWebAssets.props",
