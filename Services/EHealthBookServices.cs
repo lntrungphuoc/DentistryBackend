@@ -27,6 +27,7 @@ namespace AppDentistry.Services
                 CheckUpDate = request.CheckUpDate,
                 IdClinic = request.IdClinic,
                 IdCustomer = request.IdCustomer,
+                IdDoctorInCharge = request.IdDoctorInCharge != null ? request.IdDoctorInCharge : null,
                 ReExaminationDate = request.ReExaminationDate,
                 Note = request.Note,
                 CreatedDate = DateTime.Now,
@@ -83,6 +84,7 @@ namespace AppDentistry.Services
                                  TotalFee = x.TotalFee,
                                  IdCustomer = x.IdCustomer,
                                  IdClinic = x.IdClinic,
+                                 IdDoctorInCharge = x.IdDoctorInCharge,
                                  CheckUpDate = x.CheckUpDate,
                                  ReExaminationDate = x.ReExaminationDate,
                                  Note = x.Note,
@@ -90,6 +92,14 @@ namespace AppDentistry.Services
                                  CreatedBy = x.CreatedBy,
                                  ModifiedDate = x.ModifiedDate,
                                  ModifiedBy = x.ModifiedBy,
+                                 Doctor = x.IdDoctorInCharge != null ? new Models.Response.Doctor.DoctorResponse
+                                 {
+                                     Id = x.Doctor.Id,
+                                     Name = x.Doctor.Name,
+                                     Information = x.Doctor.Information,
+                                     AvatarUrl = x.Doctor.AvatarUrl,
+                                     IsDoctor = x.Doctor.IsDoctor
+                                 } : null,
                                  Clinic = new Models.Response.Clinic.ClinicResponse
                                  {
                                      Id = x.IdClinic,
@@ -177,12 +187,21 @@ namespace AppDentistry.Services
                     IdCustomer = x.IdCustomer,
                     IdClinic = x.IdClinic,
                     CheckUpDate = x.CheckUpDate,
+                    IdDoctorInCharge = x.IdDoctorInCharge,
                     ReExaminationDate = x.ReExaminationDate,
                     Note = x.Note,
                     CreatedDate = x.CreatedDate,
                     CreatedBy = x.CreatedBy,
                     ModifiedDate = x.ModifiedDate,
                     ModifiedBy = x.ModifiedBy,
+                    Doctor = x.IdDoctorInCharge != null ? new Models.Response.Doctor.DoctorResponse
+                    {
+                        Id = x.Doctor.Id,
+                        Name = x.Doctor.Name,
+                        Information = x.Doctor.Information,
+                        AvatarUrl = x.Doctor.AvatarUrl,
+                        IsDoctor = x.Doctor.IsDoctor
+                    } : null,
                     Clinic = new Models.Response.Clinic.ClinicResponse
                     {
                         Id = x.IdClinic,
@@ -280,6 +299,7 @@ namespace AppDentistry.Services
                     TotalFee = x.TotalFee,
                     IdCustomer = x.IdCustomer,
                     IdClinic = x.IdClinic,
+                    IdDoctorInCharge = x.IdDoctorInCharge,
                     CheckUpDate = x.CheckUpDate,
                     ReExaminationDate = x.ReExaminationDate,
                     Note = x.Note,
@@ -287,6 +307,14 @@ namespace AppDentistry.Services
                     CreatedBy = x.CreatedBy,
                     ModifiedDate = x.ModifiedDate,
                     ModifiedBy = x.ModifiedBy,
+                    Doctor = x.IdDoctorInCharge != null ? new Models.Response.Doctor.DoctorResponse
+                    {
+                        Id = x.Doctor.Id,
+                        Name = x.Doctor.Name,
+                        Information = x.Doctor.Information,
+                        AvatarUrl = x.Doctor.AvatarUrl,
+                        IsDoctor = x.Doctor.IsDoctor
+                    } : null,
                     Clinic = new Models.Response.Clinic.ClinicResponse
                     {
                         Id = x.IdClinic,
@@ -395,6 +423,7 @@ namespace AppDentistry.Services
                 TotalFee = x.TotalFee,
                 IdCustomer = x.IdCustomer,
                 IdClinic = x.IdClinic,
+                IdDoctorInCharge = x.IdDoctorInCharge,
                 CheckUpDate = x.CheckUpDate,
                 ReExaminationDate = x.ReExaminationDate,
                 Note = x.Note,
@@ -402,6 +431,14 @@ namespace AppDentistry.Services
                 CreatedBy = x.CreatedBy,
                 ModifiedDate = x.ModifiedDate,
                 ModifiedBy = x.ModifiedBy,
+                Doctor = x.IdDoctorInCharge != null ? new Models.Response.Doctor.DoctorResponse
+                {
+                    Id = x.Doctor.Id,
+                    Name = x.Doctor.Name,
+                    Information = x.Doctor.Information,
+                    AvatarUrl = x.Doctor.AvatarUrl,
+                    IsDoctor = x.Doctor.IsDoctor
+                } : null,
                 Clinic = new Models.Response.Clinic.ClinicResponse
                 {
                     Id = x.IdClinic,
@@ -512,6 +549,10 @@ namespace AppDentistry.Services
             eHealthBook.Id = request.Id;
             eHealthBook.IdClinic = request.IdClinic;
             eHealthBook.IdCustomer = request.IdCustomer;
+            if (request.IdDoctorInCharge != null)
+            {
+                eHealthBook.IdDoctorInCharge = request.IdDoctorInCharge;
+            }
             eHealthBook.CheckUpDate = request.CheckUpDate;
             eHealthBook.TotalFee = request.TotalFee;
             eHealthBook.ReExaminationDate = request.ReExaminationDate;

@@ -8,6 +8,7 @@ namespace AppDentistry.Models.Request.EHealthBook
         public double TotalFee { get; set; }
         public int IdClinic { get; set; }
         public int IdCustomer { get; set; }
+        public int? IdDoctorInCharge { get; set; }
         public DateTime CheckUpDate { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime? ReExaminationDate { get; set; }
