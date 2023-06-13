@@ -1,4 +1,5 @@
-﻿using AppDentistry.Interface.Services;
+﻿using AppDentistry.Common.Providers;
+using AppDentistry.Interface.Services;
 using AppDentistry.Models.Request.Service;
 using AppDentistry.Models.Response.Service;
 using Domain;
@@ -41,7 +42,7 @@ namespace AppDentistry.Services
                 Name = request.Name,
                 Information = request.Information,
                 Fee = request.Fee,
-                URL = "",
+                URL = request.URL != null ? request.URL : StringUtils.GenerateUrlTitle(request.Name),
                 CreatedDate = DateTime.Now,
                 CreatedBy = request.CreatedBy,
             };
@@ -111,6 +112,7 @@ namespace AppDentistry.Services
 
             service.Name = request.Name;
             service.Information = request.Information;
+            service.URL = request.URL != null ? request.URL : StringUtils.GenerateUrlTitle(request.Name);
             service.Fee = request.Fee;
             service.ModifiedDate = DateTime.Now;
             service.ModifiedBy = request.ModifiedBy;

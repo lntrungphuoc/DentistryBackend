@@ -1,12 +1,14 @@
 ﻿using AppDentistry.Interface.Services;
 using AppDentistry.Models.Request.Service;
+using Domain.Common;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 using static AppDentistry.Services.BaseService;
 
 namespace AppDentistry.Controllers
 {
-    [ApiController, Route("service")]
+    [ApiController, Route("service"), Authorize(Roles = AppConstants.ApplicationRoles.HEALTHBOOK)]
     public class ServiceController : Controller
     {
         private readonly IServiceServices _services;

@@ -8,6 +8,7 @@ namespace AppDentistry.Models.Request.Service
         public string Name { get; set; }
         public string Information { get; set; }
         public float Fee { get; set; }
+        public string? URL { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime? ModifiedDate { get; set; }
         public int CreatedBy { get; set; }

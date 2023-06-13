@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "878m8EuzLoZPUsgO+qcV2vMuKs3q3kVbIls1myuW9i0=",
+  "Hash": "WDRSALZ4++Ky1dFZpU1KAKMJSgRKwIN7LBgdeq2+2lI=",
   "Source": "AppDentistry",
   "BasePath": "_content/AppDentistry",
   "Mode": "Default",
@@ -1122,6 +1122,23 @@
       "OriginalItemSpec": "wwwroot\\attachment\\05e7c7f1-0db9-4dc5-8789-ad2a076c776c.pdf"
     },
     {
+      "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\06a20ce9-1530-4828-9d34-7b0a36e7f0a8.pdf",
+      "SourceId": "AppDentistry",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DentistryBackend\\wwwroot\\",
+      "BasePath": "_content/AppDentistry",
+      "RelativePath": "attachment/06a20ce9-1530-4828-9d34-7b0a36e7f0a8.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\attachment\\06a20ce9-1530-4828-9d34-7b0a36e7f0a8.pdf"
+    },
+    {
       "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\06fe90ce-4b63-4599-8bbf-926d18104649.png",
       "SourceId": "AppDentistry",
       "SourceType": "Discovered",
@@ -2159,6 +2176,23 @@
       "OriginalItemSpec": "wwwroot\\attachment\\2aa76ae0-9caa-45bc-9bbe-4e6a64c2a7a3.png"
     },
     {
+      "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\2b60e6d9-355c-4c23-9796-3e19f563da20.jpg",
+      "SourceId": "AppDentistry",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DentistryBackend\\wwwroot\\",
+      "BasePath": "_content/AppDentistry",
+      "RelativePath": "attachment/2b60e6d9-355c-4c23-9796-3e19f563da20.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\attachment\\2b60e6d9-355c-4c23-9796-3e19f563da20.jpg"
+    },
+    {
       "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\2c0d8b10-97cb-4d67-8613-604d17aab49e.jpg",
       "SourceId": "AppDentistry",
       "SourceType": "Discovered",
@@ -2514,6 +2548,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\attachment\\393efe30-4158-4104-914b-d18ceafc58d3.png"
+    },
+    {
+      "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\39d719c5-1f92-43a3-891f-0250e750a46f.pdf",
+      "SourceId": "AppDentistry",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DentistryBackend\\wwwroot\\",
+      "BasePath": "_content/AppDentistry",
+      "RelativePath": "attachment/39d719c5-1f92-43a3-891f-0250e750a46f.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\attachment\\39d719c5-1f92-43a3-891f-0250e750a46f.pdf"
     },
     {
       "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\3a321ac9-7462-4ca9-a3d5-8c8c8194b4a1.jpg",
@@ -3196,6 +3247,23 @@
       "OriginalItemSpec": "wwwroot\\attachment\\552f2896-0628-40df-8b8c-19e45c877171.png"
     },
     {
+      "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\55583468-ed5b-4ba3-80e2-c04d28880b4e.pdf",
+      "SourceId": "AppDentistry",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DentistryBackend\\wwwroot\\",
+      "BasePath": "_content/AppDentistry",
+      "RelativePath": "attachment/55583468-ed5b-4ba3-80e2-c04d28880b4e.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\attachment\\55583468-ed5b-4ba3-80e2-c04d28880b4e.pdf"
+    },
+    {
       "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\559b1a8a-3459-4ae5-b913-4e8890f303e0.png",
       "SourceId": "AppDentistry",
       "SourceType": "Discovered",
@@ -3500,6 +3568,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\attachment\\61ac6e8d-d86b-4ce8-a6bd-3437fbc29648.png"
+    },
+    {
+      "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\63190589-6c72-4905-9951-5065f5b19f15.pdf",
+      "SourceId": "AppDentistry",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DentistryBackend\\wwwroot\\",
+      "BasePath": "_content/AppDentistry",
+      "RelativePath": "attachment/63190589-6c72-4905-9951-5065f5b19f15.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\attachment\\63190589-6c72-4905-9951-5065f5b19f15.pdf"
     },
     {
       "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\639d3e15-9227-4fa9-be10-c17453ddaebd.png",
@@ -4726,6 +4811,23 @@
       "OriginalItemSpec": "wwwroot\\attachment\\9adf244b-5fbc-4878-b5e8-e0f97120023c.docx"
     },
     {
+      "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\9af9422f-9927-4a49-a9a1-8a68abc4b4d9.jpg",
+      "SourceId": "AppDentistry",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DentistryBackend\\wwwroot\\",
+      "BasePath": "_content/AppDentistry",
+      "RelativePath": "attachment/9af9422f-9927-4a49-a9a1-8a68abc4b4d9.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\attachment\\9af9422f-9927-4a49-a9a1-8a68abc4b4d9.jpg"
+    },
+    {
       "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\9b491bf5-e6d6-4dcb-9e12-64851186b883.jpg",
       "SourceId": "AppDentistry",
       "SourceType": "Discovered",
@@ -5338,6 +5440,23 @@
       "OriginalItemSpec": "wwwroot\\attachment\\b0d46c80-73a1-4cc9-b386-c6bb1404edae.jpg"
     },
     {
+      "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\b14d5601-7f2d-4636-93b2-4cd2c85d4f1b.jpg",
+      "SourceId": "AppDentistry",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DentistryBackend\\wwwroot\\",
+      "BasePath": "_content/AppDentistry",
+      "RelativePath": "attachment/b14d5601-7f2d-4636-93b2-4cd2c85d4f1b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\attachment\\b14d5601-7f2d-4636-93b2-4cd2c85d4f1b.jpg"
+    },
+    {
       "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\b1e3ee11-9310-4b29-83e0-fc6c8732d22d.png",
       "SourceId": "AppDentistry",
       "SourceType": "Discovered",
@@ -5933,6 +6052,23 @@
       "OriginalItemSpec": "wwwroot\\attachment\\c610216d-9252-4512-8a02-a1ed148930a5.jpg"
     },
     {
+      "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\c61c3f56-63fc-4a55-8370-9c424564fec1.jpg",
+      "SourceId": "AppDentistry",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DentistryBackend\\wwwroot\\",
+      "BasePath": "_content/AppDentistry",
+      "RelativePath": "attachment/c61c3f56-63fc-4a55-8370-9c424564fec1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\attachment\\c61c3f56-63fc-4a55-8370-9c424564fec1.jpg"
+    },
+    {
       "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\c674fdda-d6bc-4000-81b5-c19ccb4f046a.png",
       "SourceId": "AppDentistry",
       "SourceType": "Discovered",
@@ -5999,6 +6135,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\attachment\\c8b85314-ae90-44c9-b7de-c10dea5b5b85.jpg"
+    },
+    {
+      "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\ca0f71ec-8031-4cae-b209-fd3f40c16162.jpg",
+      "SourceId": "AppDentistry",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DentistryBackend\\wwwroot\\",
+      "BasePath": "_content/AppDentistry",
+      "RelativePath": "attachment/ca0f71ec-8031-4cae-b209-fd3f40c16162.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\attachment\\ca0f71ec-8031-4cae-b209-fd3f40c16162.jpg"
     },
     {
       "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\cb28d30f-27b2-4e39-a220-2aaf8fe2699e.png",
@@ -6220,6 +6373,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\attachment\\d4b66480-7bb4-417e-a656-1b39faded086.pdf"
+    },
+    {
+      "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\d6328a30-d2f3-470d-b9b6-332f16bef19c.pdf",
+      "SourceId": "AppDentistry",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DentistryBackend\\wwwroot\\",
+      "BasePath": "_content/AppDentistry",
+      "RelativePath": "attachment/d6328a30-d2f3-470d-b9b6-332f16bef19c.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\attachment\\d6328a30-d2f3-470d-b9b6-332f16bef19c.pdf"
     },
     {
       "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\d651c884-3818-4237-b5c8-0e2f8cc2cd2d.png",
@@ -6509,6 +6679,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\attachment\\dfcb07a0-dbfe-47fd-bd4f-88aceecaea82.jpg"
+    },
+    {
+      "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\dfd1d2cc-bdf8-4f14-ab8b-c4fdb47b187f.jpg",
+      "SourceId": "AppDentistry",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DentistryBackend\\wwwroot\\",
+      "BasePath": "_content/AppDentistry",
+      "RelativePath": "attachment/dfd1d2cc-bdf8-4f14-ab8b-c4fdb47b187f.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\attachment\\dfd1d2cc-bdf8-4f14-ab8b-c4fdb47b187f.jpg"
     },
     {
       "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\e06638c4-c6c7-4457-b367-9d4cfaf55ee1.png",
@@ -7172,6 +7359,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\attachment\\fc1cd6f7-725f-473f-a88c-6cbadde184f4.pdf"
+    },
+    {
+      "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\fd88d0db-b6db-487c-9fee-cd40e288cd38.pdf",
+      "SourceId": "AppDentistry",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\DentistryBackend\\wwwroot\\",
+      "BasePath": "_content/AppDentistry",
+      "RelativePath": "attachment/fd88d0db-b6db-487c-9fee-cd40e288cd38.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\attachment\\fd88d0db-b6db-487c-9fee-cd40e288cd38.pdf"
     },
     {
       "Identity": "D:\\DentistryBackend\\wwwroot\\attachment\\fd8904b5-01ce-4a15-b245-5f18aeb6b4fc.pdf",
