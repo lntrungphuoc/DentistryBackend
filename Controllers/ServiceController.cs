@@ -8,7 +8,7 @@ using static AppDentistry.Services.BaseService;
 
 namespace AppDentistry.Controllers
 {
-    [ApiController, Route("service"), Authorize(Roles = AppConstants.ApplicationRoles.HEALTHBOOK)]
+    [ApiController, Route("service")]
     public class ServiceController : Controller
     {
         private readonly IServiceServices _services;
@@ -18,6 +18,7 @@ namespace AppDentistry.Controllers
             _services = services;
         }
 
+        [AllowAnonymous]
         [HttpGet]
         public IActionResult Index()
         {

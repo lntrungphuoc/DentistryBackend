@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DentistryBackend\\AppDentistry.csproj": {}
+    "D:\\dentistrybe\\AppDentistry.csproj": {}
   },
   "projects": {
-    "D:\\DentistryBackend\\AppDentistry.csproj": {
+    "D:\\dentistrybe\\AppDentistry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DentistryBackend\\AppDentistry.csproj",
+        "projectUniqueName": "D:\\dentistrybe\\AppDentistry.csproj",
         "projectName": "AppDentistry",
-        "projectPath": "D:\\DentistryBackend\\AppDentistry.csproj",
+        "projectPath": "D:\\dentistrybe\\AppDentistry.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\DentistryBackend\\obj\\",
+        "outputPath": "D:\\dentistrybe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
